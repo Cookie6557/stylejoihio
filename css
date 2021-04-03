@@ -2,7 +2,7 @@
 
 #best_streak_container {
     position: absolute;
-	top: var(--ss-space-sm); left: 50%;
+	top: var(--ss-space-sm); left: 100%;
 	padding: 0; margin: 0;
     transform: translateX(-50%);
 	text-align: center;
