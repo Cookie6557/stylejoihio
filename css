@@ -108,7 +108,7 @@
 	transform-origin: center;
 	transform: rotate(90deg);
 	fill: transparent;
-	stroke: #ffffff;
+	stroke: #aaaaaa;
 	stroke-width: 1em;
 	stroke-dasharray: 14.4513em;
 	transition: all 0.3s ease-in-out;
